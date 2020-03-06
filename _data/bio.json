@@ -22,36 +22,34 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Sugra Baghirova",
+        "url": "https://www.linkedin.com/in/sugra-baghirova-surasb/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "surasb",
+        "url": "https://www.instagram.com/surasb"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analyses",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Visualization",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Travel",
       "keywords": [
       ]
     }
@@ -61,12 +59,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R"
       ]
     },
     {
@@ -74,20 +72,46 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Asana",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Air Table",
+        "Tableau",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "System Software",
+      "level": "",
+      "keywords": [
+        "Visual Studio Code",
+        "CodeRunner",
+        "Drupal",
+        "Shopify",
+        "WordPress",
+        "ERP Odoo",
+        "Alert",
+        "BMC Remedy Action",
+        "QuickBooks"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Miami, Miami, FL",
+      "area": "Data Analytics & Machine Learning",
+      "studyType": "",
+      "startDate": "2019-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "International Prague University, Prague, Czech Republic",
+      "area": "Management Tourism",
+      "studyType": "",
+      "startDate": "2010-09-01",
+      "endDate": "2013-07-25",
       "gpa": "",
       "courses": [
       ]
