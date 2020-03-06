@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sugra Baghirova",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/surasb11/surasb11.github.io/blob/master/images/IMG_7658.JPG",
+    "email": "sura.baghirova.93@gmail.com",
+    "phone": "2134254906",
+    "website": "https://surasb11.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Sugra Baghirova",
+        "url": "https://www.linkedin.com/in/sugra-baghirova-surasb/"
       },
       {
         "network": "twitter",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "surasb",
+        "url": "https://www.instagram.com/surasb"
       }
     ]
   },
@@ -56,114 +56,118 @@
       ]
     }
   ],
+  
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R"
       ]
     },
+    
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Microsoft Office",
         "MacOS",
-        "Ubuntu",
+        "Asana",
+        "Air Table",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Tableau",
+        "MongoDB",
+        "ETL",
+        "D3"
+      ]
+    },
+    
+    {
+      "name": "System Software",
+      "level": "",
+      "keywords": [
+        "Visual Studio Code",
+        "CodeRunner",
+        "Drupal",
+        "Shopify",
+        "WordPress",
+        "ERP Odoo",
+        "Alert",
+        "BMC Remedy Action",
+        "QuickBooks"
       ]
     }
   ],
+  
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
+      "institution": "University of Miami, Miami, FL.",
+      "area": "Data Analytics & Machine Learning",
+      "startDate": "2019",
+      "endDate": "present"
+    },
+    {
+      "institution": "International Prague University, Prague, Czech Republic",
+      "area": "Management Touris",
+      "startDate": "2010",
+      "endDate": "2013"
   ],
+      
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Solution Shop Consulting INC.",
+      "position": "Coordinator / Project Manager",
+      "website": "http://solutionshop.net/",
+      "startDate": "09-2019",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Information Technology & Services",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Creative Propulsion Labs",
+      "position": "Traffic Coordinator / Data Coordinator / ERP assistant / Website Manager",
+      "website": "https://www.creativepl.com/",
+      "startDate": "09-2018",
+      "endDate": "08-2019",
+      "summary": "Digital Marketing and Business Solutions",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "volunteer": [
+    },
+    
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "company": "Modern Interior Mall",
+      "position": "Accounting Assistant",
+      "website": "http://moderninteriormall.com/",
+      "startDate": "01-2017",
+      "endDate": "08-2017",
+      "summary": "Luxury Interior Products",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     },
+    
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Harvey Nichols, Baku",
+      "position": "Fashion Buyer Assistant",
+      "website": "https://www.harveynichols.com/",
+      "startDate": "11-2013",
+      "endDate": "03-2015",
+      "summary": "British Department Store",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
