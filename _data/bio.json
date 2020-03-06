@@ -141,47 +141,30 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "company": "Modern Interior Mall",
+      "position": "Accounting Assistant",
+      "website": "http://moderninteriormall.com/",
+      "startDate": "2017-02-16",
+      "endDate": "2017-08-20",
+      "summary": "Luxury Interior Products",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Harvey Nichols, Baku",
+      "position": "Fashion Buyer Assistant",
+      "website": "https://www.harveynichols.com/",
+      "startDate": "2013-11-01",
+      "endDate": "2015-03-20",
+      "summary": "British Department Store",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
