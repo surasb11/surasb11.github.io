@@ -121,22 +121,22 @@
     {
       "company": "Solution Shop Consulting INC.",
       "position": "Coordinator / Project Manager",
-      "website": "",
-			"startDate": "2019-09-10",
-			"endDate": "Present",
-			"summary": "Information Technology & Services",
-			"highlights": [
-				"Maintain, update, and oversee official college newspaper website",
-				"Drive, design and build student-community projects for UH Manoa"
-			]
+      "website": "http://solutionshop.net/",
+      "startDate": "2019-09-10",
+      "endDate": "Present",
+      "summary": "Information Technology & Services",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Creative Propulsion Labs",
+      "position": "Traffic Coordinator / Data Coordinator / ERP assistant / Website Manager",
+      "website": "https://www.creativepl.com/",
+      "startDate": "2018-09-01",
+      "endDate": "2019-08-15",
+      "summary": "Digital Marketing and Business Solutions",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
