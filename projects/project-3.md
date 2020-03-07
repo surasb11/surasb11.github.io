@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tornado.jpg
+image: images/UFO-Sightings.jpg
 title: Natural Disasters Analyses
 permalink: projects/natural-disasters-analyses
 projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
