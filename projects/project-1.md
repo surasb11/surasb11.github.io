@@ -11,6 +11,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
+ projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
   
 summary: Designed a job shadowing platform connecting students with industry professionals.
 ---
