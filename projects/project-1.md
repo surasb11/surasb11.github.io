@@ -18,8 +18,8 @@ summary: Designed a job shadowing platform connecting students with industry pro
 
 <div class="ui large rounded images">
    
-  <img class="ui image" src="../images/Screen Shot 2019-11-18 at 4.04.35 PM.png">
- ,<img class="ui image" src="../images/Screen Shot 2019-11-18 at 3.27.40 PM.png">
+  <img class="ui image" src="../images/tsunami-1080x588.jpg">
+ ,<img class="ui image" src="../images/VolcanosHeader.jpg">
   
 </div>
 
