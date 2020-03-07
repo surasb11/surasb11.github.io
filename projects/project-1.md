@@ -16,12 +16,6 @@ labels:
 summary: Designed a job shadowing platform connecting students with industry professionals.
 ---
 
-<div class="ui large rounded images">
-   
-  <img class="ui image" src="../images/Screen Shot 2019-11-18 at 4.04.35 PM.png">
- ,<img class="ui image" src="../images/Screen Shot 2019-11-18 at 3.27.40 PM.png">
-  
-</div>
 
 Global warming is the long-term rise in the average temperature of the Earth's climate system. The aim of this project is to analyze if change in land temperature over years has an effect on natural disasters, the amount of events and the magnitude of their effect.
 On each page, you will find graphs represent the relationship between the amount of natural disasters and climate changes. For this project we had to research datasets of Tsunamis, Earthquicks, Volcanos and Global Land Temperature. 
