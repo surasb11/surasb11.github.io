@@ -13,5 +13,5 @@ labels:
   - HTML
   - CSS
   
-summary: JavaScript and DOM Manipulation: Creating dynamically based table upon a dataset of UFO Sightings. Allowing our users to filter the table data for specific values, using only JavaScript, HTML, and CSS, and D3.js on the web pages.
+summary: JavaScript and DOM Manipulation. Creating dynamically based table upon a dataset of UFO Sightings. Allowing our users to filter the table data for specific values, using only JavaScript, HTML, and CSS, and D3.js on the web pages.
 ---
