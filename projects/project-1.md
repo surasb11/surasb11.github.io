@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tornado.jpg
-title: national.me
+title: Natural Disasters Analyses
 permalink: projects/natural
 projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
 # All dates must be YYYY-MM-DD format!
