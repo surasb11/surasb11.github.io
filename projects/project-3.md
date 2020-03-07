@@ -9,7 +9,7 @@ projecturl: https://surasb11.github.io/UFO-Sightings/UFO/index.html
 date: 2020-01-10
 labels:
   - JavaScript
-  - D3.js
+  - D3
   - HTML
   - CSS
   
