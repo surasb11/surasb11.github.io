@@ -4,6 +4,7 @@ type: project
 image: images/tornado.jpg
 title: national.me
 permalink: projects/natural
+projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-01
 labels:
@@ -11,7 +12,6 @@ labels:
   - HTML
   - CSS
   - JavaScript
- projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
   
 summary: Designed a job shadowing platform connecting students with industry professionals.
 ---
