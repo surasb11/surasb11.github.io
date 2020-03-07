@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/UFO-Sightings.jpg
-title: Natural Disasters Analyses
-permalink: projects/natural-disasters-analyses
+title: UFO Sightings
+permalink: projects/UFO-Sightings
 projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-10
