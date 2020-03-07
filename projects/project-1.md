@@ -6,7 +6,7 @@ title: Natural Disasters Analyses
 permalink: projects/natural-disasters-analyses
 projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.html
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-10
+date: 2020-02-22
 labels:
   - Python
   - HTML
