@@ -4,6 +4,7 @@ type: project
 image: images/UFO-Sightings.jpg
 title: UFO Sightings
 permalink: projects/UFO-Sightings
+projecturl: https://surasb11.github.io/UFO-Sightings/UFO/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
 labels:
