@@ -12,7 +12,7 @@ labels:
   - HTML
   - CSS
   
-summary: Data is more powerful when we share it with others! In this project used only Python, HTML and CSS to create a dashboard showing visualization of our data.
+summary: Data is more powerful when we share it with others! In this project used only Python, HTML and CSS to create a dashboard showing visualization of the data.
 ---
 
  
