@@ -58,7 +58,7 @@
         "SQL",
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "R"
       ]
     },
@@ -92,7 +92,7 @@
   ],
   "education": [
     {
-      "institution": "University of Miami, Miami, FL",
+      "institution": "University of Miami, Miami, FL"
       "area": "Data Analytics & Machine Learning",
       "studyType": "",
       "startDate": "2019-09-01",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "institution": "International Prague University, Prague, Czech Republic",
+      "institution": "International Prague University, Prague, Czech Republic"
       "area": "Management Tourism",
       "studyType": "",
       "startDate": "2010-09-01",
