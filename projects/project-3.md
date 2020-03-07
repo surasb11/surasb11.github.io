@@ -8,10 +8,10 @@ projecturl: https://surasb11.github.io/UFO-Sightings/UFO/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
 labels:
-  - Python
+  - JavaScript
+  - D3
   - HTML
   - CSS
-  - JavaScript
   
-summary: Project represents the relationship between the amount of natural disasters and climate changes over the years.
+summary: JavaScript and DOM Manipulation: Creating dynamically based table upon a dataset of UFO Sightings. Allowing our users to filter the table data for specific values, using only JavaScript, HTML, and CSS, and D3.js on the web pages.
 ---
