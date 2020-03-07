@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/tornado.jpg
-title: Natural Disasters Analyses
-permalink: projects/data-analyses
+image: images/visualization.jpg
+title: Web Visualization
+permalink: projects/visualization
 projecturl: https://surasb11.github.io/Web-Design/
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-01
