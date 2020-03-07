@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/visualization.jpg
+image: images/visualize.jpg
 title: Web Visualization
 permalink: projects/visualization
 projecturl: https://surasb11.github.io/Web-Design/
