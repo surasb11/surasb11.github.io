@@ -6,7 +6,7 @@ title: UFO Sightings
 permalink: projects/UFO-Sightings
 projecturl: https://surasb11.github.io/UFO-Sightings/UFO/index.html
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-10
+date: 2020-02-14
 labels:
   - JavaScript
   - D3
