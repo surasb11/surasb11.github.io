@@ -7,12 +7,14 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;;
+  background-color: rgb(200, 200, 200, 0.2) !important;
 }
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: $background-start;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }
 
 // Customize the home page icon colors
