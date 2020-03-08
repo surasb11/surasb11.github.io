@@ -13,12 +13,12 @@ body {
 // Customize the menubar color
 .ui.menu {
   background: $background-start;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+  text-align: center !important;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet) !important;
 }
 
