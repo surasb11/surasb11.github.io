@@ -17,11 +17,15 @@ body {
   box-shadow: 2px 1px 2px 2px #f0f0f0;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
+  font-weight: bold;
 }
 
 // Default home page icon color
 .icon-color {
-  color: #0ac8f0;
+  color: #0093ff;
+}
+.icon-color:hover {
+  background-color: #006dff;
 }
 
 
