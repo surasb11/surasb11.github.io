@@ -8,9 +8,9 @@ projecturl: https://surasb11.github.io/Natural_Disasters_Analysis/static/index.h
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-22
 labels:
-  - Python,
-  - HTML,
-  - CSS,
+  - Python
+  - HTML
+  - CSS
   - JavaScript
   
 summary: Project represents the relationship between the amount of Natural Disasters and Global Land Temperature changes over the years.
