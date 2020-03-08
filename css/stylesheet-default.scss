@@ -13,7 +13,7 @@ body {
 
 // Default menubar color
 .ui.menu {
-  background: mix(#ff4e63, #0ac8f0);
+  background: lighten(#0ac8f0, 60%);
 }
 
 // Default home page icon color
