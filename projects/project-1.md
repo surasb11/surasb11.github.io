@@ -13,7 +13,7 @@ labels:
   - CSS
   - JavaScript
   
-summary: Project represents the relationship between the amount of Natural Disasters and Global Land Temperature changes over the years.
+summary: Project represents the relationship between the amount of Natural Disasters and Global Land Temperature changes over the years. The goal of this project is to analyze if change in temperature over time correlates to an increase in the size and frequency of natural disasters. Our research focused on the amount of Natural Disasters data for Earthquakes, Tsunamis and Volcanos over the years, which is compared to the data of Global Land Temperature.
 ---
 
 Global warming is the long-term rise of average temperatures on earth's surface. The goal of this project is to analyze if change in temperature over time correlates to an increase in the size and frequency of natural disasters. Our research focused on the amount of Natural Disasters data for Earthquakes, Tsunamis and Volcanos over the years, which is compared to the data of Global Land Temperature.
