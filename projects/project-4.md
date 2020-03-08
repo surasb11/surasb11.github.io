@@ -1,17 +1,18 @@
 ---
 layout: project
 type: project
-image: images/UFO-Sightings.jpg
-title: UFO Sightings
-permalink: projects/UFO-Sightings
-projecturl: https://surasb11.github.io/UFO-Sightings/UFO/index.html
+image: images/USGS.jpg
+title: Visualizing Data with Leaflet
+permalink: projects/USGS
+projecturl: https://surasb11.github.io/data-visualizing-with-leaflet/Leaflet/
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-14
+date: 2020-03-08
 labels:
+  - JSON
+  - Leaflet
   - JavaScript
-  - D3
   - HTML
   - CSS
   
-summary: JavaScript and DOM Manipulation. Creating dynamically based table upon a dataset of UFO Sightings. Allowing our users to filter the table data for specific values, using only JavaScript, HTML, and CSS, and D3.js on the web pages.
+summary: The USGS provides earthquake data in a number of different formats. In this project visualizing map using Leaflet that plots all of the earthquakes from data set i picked from USGS based on their longitude and latitude.
 ---
