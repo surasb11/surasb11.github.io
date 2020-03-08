@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/USGS.jpg
+image: images/USGS.png
 title: Visualizing Data with Leaflet
 permalink: projects/USGS
 projecturl: https://surasb11.github.io/data-visualizing-with-leaflet/Leaflet/
