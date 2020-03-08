@@ -12,11 +12,12 @@ body {
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: $background-start;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: blue;
+  color: blue !mportant;
 }
 
