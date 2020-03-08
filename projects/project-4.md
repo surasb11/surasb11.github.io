@@ -14,4 +14,5 @@ labels:
   - HTML
   - CSS
   
-summary: The USGS provides earthquake data in a number of different formats. In this project visualizing map using Leaflet that plots all of the earthquakes from data set i picked from USGS based on their longitude and latitude. 
+summary: The USGS provides earthquake data in a number of different formats. In this project visualizing map using Leaflet that plots all of the earthquakes from data set i picked from USGS based on their longitude and latitude. On the map you can  select overlays in layer controls box such as Hight Contrast map, Street map, Dark map and Satellite map.
+---
