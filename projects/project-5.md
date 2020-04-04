@@ -12,5 +12,5 @@ labels:
   - HTML
   - CSS
   
-summary: In this project with "Tableau Public" analyzing CitiBike in NYC, you can find 25 workbooks answering to the questions such as - How many trips have been recorded total during the chosen period? What are the top 10 stations in the city for starting a journey? What is the Average Distance Ridden in Miles?
+summary: In this project with Tableau Public, analyzing CitiBike in NYC, you can find 25 workbooks answering to the questions such as - How many trips have been recorded total during the chosen period? What are the top 10 stations in the city for starting a journey? What is the Average Distance Ridden in Miles?
 ---
