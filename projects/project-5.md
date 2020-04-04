@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/data-vis.jpg
+image: images/citibike.png
 title: Web Visualization
 permalink: projects/visualization
 projecturl: https://surasb11.github.io/Web-Design/
