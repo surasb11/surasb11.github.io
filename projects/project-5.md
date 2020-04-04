@@ -12,5 +12,5 @@ labels:
   - HTML
   - CSS
   
-summary: Data is more powerful when we share it with others! In this project used only Python, HTML and CSS to create a dashboard showing visualization of the data.
+summary: In this project with "Tableau Public" analyzing CitiBike in NYC, you can find 25 workbooks answering to the questions such as - How many trips have been recorded total during the chosen period? What are the top 10 stations in the city for starting a journey? What is the Average Distance Ridden in Miles?
 ---
