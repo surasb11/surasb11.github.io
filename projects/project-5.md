@@ -6,9 +6,9 @@ title: Tableau - CitiBike Analysis
 permalink: projects/tableau
 projecturl: https://surasb11.github.io/Citi-Bike-Analytics/index.html
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-01
+date: 2020-03-17
 labels:
-  - Python
+  - Tableau
   - HTML
   - CSS
   
