@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/citibike.png
-title: Tableau - CitiBike Analysis
+title: NYC CitiBike Analysis
 permalink: projects/tableau
 projecturl: https://surasb11.github.io/Citi-Bike-Analytics/index.html
 # All dates must be YYYY-MM-DD format!
