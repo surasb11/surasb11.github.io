@@ -4,7 +4,7 @@ type: project
 image: images/citibike.png
 title: Tableau - CitiBike Analysis
 permalink: projects/CitiBike
-projecturl: https://surasb11.github.io/Citi-Bike-Analytics/index.html
+projecturl: https://surasb11.github.io/Citi-Bike-Analytics/
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-17
 labels:
