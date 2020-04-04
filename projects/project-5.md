@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/citibike.png
-title: Tableau - CitiBike Analysis
-permalink: projects/CitiBike
-projecturl: https://surasb11.github.io/Citi-Bike-Analytics/index.html
+image: images/data-vis.jpg
+title: Web Visualization
+permalink: projects/visualization
+projecturl: https://surasb11.github.io/Web-Design/
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-17
+date: 2019-12-01
 labels:
-  - Tableau
+  - Python
   - HTML
   - CSS
   
-summary: In this project with "Tableau Public" analyzing CitiBike in NYC, you can find 25 workbooks answering to the questions such as: How many trips have been recorded total during the chosen period? What are the top 10 stations in the city for starting a journey? What is the Average Distance Ridden in Miles?
+summary: Data is more powerful when we share it with others! In this project used only Python, HTML and CSS to create a dashboard showing visualization of the data.
 ---
