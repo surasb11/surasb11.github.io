@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/D3-jurnalism.jpg
+image: images/jurnalismD3.jpg
 title: Behavioral Risk Factor Surveillance System
-permalink: projects/jurnalism-and-D3
+permalink: projects/D3-jurnalism
 projecturl: https://surasb11.github.io/Data-Journalism-D3/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-10
