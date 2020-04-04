@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/citibike.png
-title: Web Visualization
+title: Tableau - CitiBike Analysis
 permalink: projects/visualization
 projecturl: https://surasb11.github.io/Web-Design/
 # All dates must be YYYY-MM-DD format!
