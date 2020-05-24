@@ -6,7 +6,7 @@ title: Pandemic Analysis
 permalink: projects/Pandemic-Analysis
 projecturl: https://surasb11.github.io/Pandemic-Analysis/web/index.html
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-10
+date: 2020-03-28
 labels:
   - JavaScript
   - HTML
