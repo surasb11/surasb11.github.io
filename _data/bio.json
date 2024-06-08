@@ -32,28 +32,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Data Analysis",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Visualization",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Web Design",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Travel",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Key Skills",
