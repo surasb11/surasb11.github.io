@@ -56,58 +56,65 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Key Skills",
       "level": "",
       "keywords": [
-        "Python",
-        "SQL",
-        "HTML",
-        "CSS"
+        "Digital Marketing Strategy",
+        "Web Development and Design (WordPress)",
+        "Customer Service Excellence",
+        "Sales and Reservation Management",
+        "Data Analytics and Insights (AirTable)",
+        "Social Media Management",
+        "Business Operations and Management",
+        "Advanced Technology",
+        "Quick Learning and Adaptability",
+        "Employee Training"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Programming Skills",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Asana",
-        "Git/GitHub",
-        "AirTable"
+        "HTML (good)",
+        "CSS (excellent)",
+        "Swift (learning)",
+        "Python (basic)",
+        "CodeRunner",
+        "Visual Studio Code"
       ]
     },
     {
       "name": "System Software",
       "level": "",
       "keywords": [
-        "Visual Studio Code",
-        "CodeRunner",
-        "Shopify",
-        "WordPress",
-        "ERP Odoo",
-        "QuickBooks"
+        "AirTable (excellent)",
+        "WordPress (excellent)",
+        "Shopify (good)",
+        "QuickBooks (good)",
+        "Photoshop (good)",
+        "Microsoft (Excel, Word, Outlook)",
+        "MacOS Proficiency"
       ]
     }
   ],
-  "education": [
+   "education": [
     {
-      "institution": "University of Miami, Miami, FL",
-      "area": "Data Analytics & Machine Learning",
-      "studyType": "",
+      "institution": "University of Miami",
+      "area": "Data Analytics",
+      "studyType": "Boot Camp",
       "startDate": "2019-09-01",
       "endDate": "2020-03-28",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
-      "institution": "International Prague University, Prague, Czech Republic",
-      "area": "Management Tourism",
-      "studyType": "",
+      "institution": "International Prague University",
+      "area": "Travel and Tourism",
+      "studyType": "Bachelor’s Degree",
       "startDate": "2010-09-01",
       "endDate": "2013-07-25",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
