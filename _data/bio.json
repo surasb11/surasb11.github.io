@@ -112,27 +112,58 @@
   ],
   "work": [
     {
+      "company": "Miami Boats Rental",
+      "position": "Owner and Manager",
+      "website": "https://miami-boats-rental.com",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Founded and managed a yacht rental business, overseeing all aspects of operations including staff management, customer service, sales, and problem resolution to ensure customer satisfaction.",
+      "highlights": [
+        "Coordinating with vendors, owners, and crew to streamline services and ensure seamless operations.",
+        "Managing reservations, calendars, and additional services such as decorations and catering.",
+        "Developed and executed marketing strategies, including SEO to improve online presence and brand visibility.",
+        "Developed and maintained the company website using WordPress, enhancing user experience and functionality.",
+        "Managing social media accounts, creating engaging content and maintaining consistent customer engagement.",
+        "Successfully trained all employees in data management, Photoshop, social media, accounting, sales, customer service, and strategic business organization."
+      ]
+    },
+    {
       "company": "Solution Shop Consulting INC.",
       "position": "Coordinator / Project Manager",
-      "website": "http://solutionshop.net/",
+      "website": "https://solutionshop.net/",
       "startDate": "2019-09-10",
-      "endDate": "Present",
+      "endDate": "2019-12-31",
       "summary": "Information Technology & Services",
       "highlights": [
-        "Currently working remote for an IT service provider based in Canada to help manage Alert Software and their IT projects. My responsibilities include adding employee’s work timesheet to the system, signing tasks for each of team member, making sure tasks has been completed, creating invoices in Alert Software and importing them to the QuickBooks. Tracking the BMC remedy action request system - for availability of new CRQ, TAS, INC."
+        "Worked remotely for an IT service provider based in Canada to help manage alert software and IT projects.",
+        "Added employees' work timesheets to the system, assigned tasks to team members, and ensured task completion.",
+        "Created invoices in Alert Software and imported them to QuickBooks.",
+        "Tracked the BMC Remedy Action Request System for availability of new CRQs, TAS, and INCs."
       ]
     },
     {
       "company": "Creative Propulsion Labs",
-      "position": "Traffic Coordinator / Data Coordinator / ERP assistant / Website Manager",
+      "position": "Data Coordinator / ERP Assistant / Web Product Manager",
       "website": "https://www.creativepl.com/",
-      "startDate": "2018-09-01",
-      "endDate": "2019-08-15",
-      "summary": "Digital Marketing and Business Solutions",
+      "startDate": "2018-08-01",
+      "endDate": "2019-06-30",
+      "summary": "A marketing company specializing in product management and digital marketing solutions.",
       "highlights": [
-        "Joined the team as a Traffic Coordinator and grew to become the Product Specialist for our biggest client “Diamond CBD” It was my job to communicate with manufacturing while client managing data and updating products to coordinate with designers for design and digital rendering of products. I was also creating and controlling SKU, UPCs and QR codes for labels. As a product specialist I start to work with their ERP system in the “Odoo”. I published products and updates to the website while managing the wholesale inventory and retail system. I also optimized client’s sites for SEO, making sure Meta titles and meta descriptions were attached for all products, pages, articles and images."
+        "Joined as an intern and secured a full-time role within two months become the Product Specialist for our biggest client, “Diamond CBD.”",
+        "Inputted and validated product data in the ERP system Odoo, ensuring all information was accurate and up-to-date.",
+        "Managed wholesale and retail products and inventory in Odoo.",
+        "Created and controlled SKUs and QR codes for product labels, ensuring all products were correctly assigned and functional.",
+        "Published products and updates from Odoo to the company’s website via Drupal.",
+        "Communicated with the design team, writers, and manufacturing clients to gather and provide necessary product information.",
+        "Published new design banners and product images on the website using Drupal and Shopify.",
+        "Assigned new product descriptions and ingredient information to writers, ensuring consistency and accuracy.",
+        "Coordinated with the design team to create product labels and website images.",
+        "Monitored and updated the website, ensuring all prices, descriptions, and meta descriptions were accurate and up-to-date.",
+        "Monitored the website for any errors and bugs, providing developers with necessary information for fixes.",
+        "Optimized client’s sites for SEO, ensuring meta titles and descriptions were attached for all products, pages, articles, and images.",
+        "Managed product presentations and sales at trade shows."
       ]
-    },
+    }
   ],
   "references": [
     {
