@@ -1,12 +1,13 @@
 {
   "basics": {
-    "name": "Sugra Baghirova",
+    "name": "Sura Baghirova",
     "label": "",
     "picture": "https://surasb11.github.io/images/suras.jpg",
-    "email": "sura.baghirova.93@gmail.com",
+    "email": "hello@surasb.com",
     "phone": "213-425-4906",
     "website": "https://surasb11.github.io",
-    "summary": "CEO at Miami Boats Rental | Entrepreneur | Operations Manager | Web Development & Data Analytics.Website and software management expertise, combined with 7+ years of experience in sales and digital marketing. Skilled in Python, Pandas, and data visualization tools such as HTML, CSS, JavaScript, and D3.js. In a short period of time, I was able to learn multiple front- and back-end computer programming languages and developed multiple research and analysis project websites and custom-built data scraping tools. | I developed Miami Boats Rental Company in the summer of 2020. I built a custom CRM system and developed the website of Miami Boats Rental myself. This is my first large project which is successfully working right now with hundreds .where we offer a wide selection of yacht charters around South Miami in Florida. My role involves managing various aspects of the business, including CRM, Business Development, Social Media, Marketing, Web Development, Sales, Operations Management, Customer Service. I believe that there's nothing you can't learn if you truly want to, and no matter how much you know, there's always something more to attain.",
+    "summary": "CEO at Miami Boats Rental | Entrepreneur | Operations Manager | Web Development & Data Analytics | 
+    Entrepreneur and dynamic business owner with hands-on experience in digital marketing, web development, customer service, and business management. Successfully managed and grew Miami Boats Rental through strategic marketing and operational excellence, generating significant reservations through social media. Skilled in programming, problem-solving, and analytics, with the ability to quickly adapt to new challenges. Seeking to leverage diverse skills in a dynamic role at a leading tech company. I believe that there's nothing you can't learn if you truly want to, and no matter how much you know, there's always something more to attain.",
     "location": {
       "address": "",
       "postalCode": "33139",
@@ -22,13 +23,13 @@
       },
       {
         "network": "linkedin",
-        "username": "Sugra Baghirova",
-        "url": "https://www.linkedin.com/in/sugra-baghirova-surasb/"
+        "username": "Sura Baghirova",
+        "url": "https://www.linkedin.com/in/surasb/"
       },
       {
         "network": "instagram",
         "username": "surasb",
-        "url": "https://www.instagram.com/surasb11"
+        "url": "https://www.instagram.com/surasb"
       }
     ]
   },
@@ -62,9 +63,7 @@
         "Python",
         "SQL",
         "HTML",
-        "CSS",
-        "JavaScript",
-        "R"
+        "CSS"
       ]
     },
     {
@@ -74,9 +73,7 @@
         "MacOS",
         "Asana",
         "Git/GitHub",
-        "Air Table",
-        "Tableau",
-        "MongoDB"
+        "AirTable"
       ]
     },
     {
@@ -85,12 +82,9 @@
       "keywords": [
         "Visual Studio Code",
         "CodeRunner",
-        "Drupal",
         "Shopify",
         "WordPress",
         "ERP Odoo",
-        "Alert",
-        "BMC Remedy Action",
         "QuickBooks"
       ]
     }
@@ -140,28 +134,6 @@
         "Joined the team as a Traffic Coordinator and grew to become the Product Specialist for our biggest client “Diamond CBD” It was my job to communicate with manufacturing while client managing data and updating products to coordinate with designers for design and digital rendering of products. I was also creating and controlling SKU, UPCs and QR codes for labels. As a product specialist I start to work with their ERP system in the “Odoo”. I published products and updates to the website while managing the wholesale inventory and retail system. I also optimized client’s sites for SEO, making sure Meta titles and meta descriptions were attached for all products, pages, articles and images."
       ]
     },
-    {
-      "company": "Modern Interior Mall",
-      "position": "Accounting Assistant",
-      "website": "http://moderninteriormall.com/",
-      "startDate": "2017-02-16",
-      "endDate": "2017-08-20",
-      "summary": "Luxury Interior Products",
-      "highlights": [
-        "Greeted customers and promptly answered questions to maximize service opportunity. Handled bookkeeping and kept financial records up-to-date. Composed and posted online content on the company’s website and different social media accounts (e.g. Instagram, Facebook). Maintained accuracy in calculating discounts, interest and employee commissions. I successfully implemented new technologies and process automations to encourage continuous improvement. Composed effective accounting reports summarizing accounts payable data. Managed payment collections and billing. Researched and resolved accounts payable discrepancies. Created daily and weekly cash reports for accounting and management. Reviewed all expense reports for accuracy and proper expense disclosure."
-      ]
-    },
-    {
-      "company": "Harvey Nichols, Baku",
-      "position": "Fashion Buyer Assistant",
-      "website": "https://www.harveynichols.com/",
-      "startDate": "2013-11-01",
-      "endDate": "2015-03-20",
-      "summary": "British Department Store",
-      "highlights": [
-        "Built and launched a range of products for the international market. Managed diverse department offices. Built the seasonal collection and helped plan the permanent range of products. Provided analysis of the current sales collections and consumer preferences. Assisted head buyer on business trips, tradeshows and showrooms during several fashion weeks. Negotiated with suppliers and manufacturers."
-      ]
-    }
   ],
   "references": [
     {
